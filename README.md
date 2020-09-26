@@ -5,7 +5,7 @@ The purpose of the analysis is to provide an in-depth analysis of UFO sightings 
 ## **Results:** 
 * The UFO sightings tables looks like below allowing the users to filter based on date, city, state, country and shape.
 
-![with_all_filters added](./static/images/with_all_filters added.png)
+![with_all_filters added](/static/images/with_all_filters added.png)
 
 
 ## **Summary:**
